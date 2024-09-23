@@ -1,7 +1,7 @@
-# [Name]
+# Gabrial Escajeda
 ## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+## [Submission date: 09/23/24]
+## Worked with/sources: None
 * example
 * example
 * example
