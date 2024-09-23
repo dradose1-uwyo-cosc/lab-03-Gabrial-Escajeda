@@ -1,4 +1,4 @@
-# Gabrial Escajeda
+# Escajeda Gabrial
 # UWYO COSC 1010
 # 09/23/24
 # Lab 03 
