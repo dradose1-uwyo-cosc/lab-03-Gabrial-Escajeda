@@ -1,6 +1,6 @@
 # Gabrial Escajeda
-## [Assignment #]
-## [Submission date: 09/23/24]
+## Lab 3
+## Submission date: 09/23/24
 ## Worked with/sources: None
 * example
 * example
